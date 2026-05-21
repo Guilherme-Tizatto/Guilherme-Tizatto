@@ -8,7 +8,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=Guilherme-Tizatto&theme=shadow_green" />
 </div>
 
-## 🚀 Tecnologias
+## 😎 Linguagens
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="40" width="50"
