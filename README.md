@@ -4,6 +4,6 @@
 - 📫 Contate-me no email: guilhermemachadotizatto@gmail.com
 - 😁 Pronouns: Ele/Dele
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Tizatto&show_icons=true&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Guilherme-Tizatto&theme=tokyonight" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Tizatto&layout=compact&theme=tokyonight"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Guilherme-Tizatto&theme=tokyonight" />
