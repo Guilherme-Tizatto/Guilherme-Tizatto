@@ -29,7 +29,7 @@
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guilherme-Tizatto/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guilherme-Tizatto/output/snake.svg">
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/SEU-USUARIO/Guilherme-Tizatto/output/snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guilherme-Tizatto/Guilherme-Tizatto/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guilherme-Tizatto/Guilherme-Tizatto/output/snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Guilherme-Tizatto/Guilherme-Tizatto/output/snake.svg">
 </picture>
